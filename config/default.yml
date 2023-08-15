@@ -6,7 +6,7 @@ application:
   name: 'Swankie Juice Shop'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
-  theme: deeppurple-amber # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
+  theme: purple-green # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showVersionNumber: true
   showGitHubLinks: true
   localBackupEnabled: true
